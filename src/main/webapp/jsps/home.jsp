@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome!  hello</h1>
+<h1 align="center">Welcome! </h1>
 <h1 align="center"> Fresko Innovation Labs Private Limited</h1>
 <hr>
 <div style="text-align: center;">
